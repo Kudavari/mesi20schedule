@@ -1,6 +1,7 @@
 General
 ===
-Symfony2 and HTTP Fundamentals - http://symfony.com/doc/current/book/http_fundamentals.html
+* Symfony2 and HTTP Fundamentals - http://symfony.com/doc/current/book/http_fundamentals.html
+* http://www.w3schools.com/
 
 Frontend
 ===
