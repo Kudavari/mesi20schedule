@@ -1,10 +1,12 @@
 Symfony2 and HTTP Fundamentals - http://symfony.com/doc/current/book/http_fundamentals.html
 
 Frontend:
-Twbs - http://getbootstrap.com/
-AngularJS - https://angularjs.org/
-jQuery - http://api.jquery.com/
-JS - http://javascript.ru/
+http://www.w3schools.com/
+http://getbootstrap.com/
+https://angularjs.org/
+http://api.jquery.com/
+http://javascript.ru/
 
 Backend:
 Symfony2 versus Flat PHP - http://symfony.com/doc/current/book/from_flat_php_to_symfony2.html
+https://docs.djangoproject.com/en/1.7/intro/tutorial01/
