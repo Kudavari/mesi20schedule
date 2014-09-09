@@ -5,7 +5,6 @@ General
 
 Frontend
 ===
-* http://www.w3schools.com/
 * http://getbootstrap.com/
 * https://angularjs.org/
 * http://api.jquery.com/
